@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34519ec2-301a-4920-a385-6050f9258171" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2 Linear Regression/1_Simple_Linear_Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Linear Regression/2_Multiple_Linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Linear Regression/economic_index.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Linear Regression/height-weight.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataScience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScience.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 Feature Engineering/1_FE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1 Feature Engineering/1_FE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="34519ec2-301a-4920-a385-6050f9258171" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +87,7 @@
       <workItem from="1755890712952" duration="42000" />
       <workItem from="1755945561996" duration="5059000" />
       <workItem from="1755964539680" duration="142000" />
+      <workItem from="1755964725372" duration="300000" />
     </task>
     <servers />
   </component>
