@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34519ec2-301a-4920-a385-6050f9258171" name="Changes" comment="" />
+    <list default="true" id="34519ec2-301a-4920-a385-6050f9258171" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2 Regression/2_Multiple_Linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Regression/3_Polynomial_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 Ridge Lasso Elasticnet/1_Ridge_Lasso_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 Ridge Lasso Elasticnet/Algerian_forest_fires_dataset_UPDATE.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 Feature Engineering/1_FE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1 Feature Engineering/1_FE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Linear Regression/1_Simple_Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2 Regression/1_Simple_Linear_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Linear Regression/2_Multiple_Linear_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Linear Regression/economic_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2 Regression/economic_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Linear Regression/height-weight.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2 Regression/height-weight.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,23 +52,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DataScience/2 Linear Regression&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/DataScience/3 Ridge Lasso Elasticnet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DataScience\3 Ridge Lasso Elasticnet" />
       <recent name="D:\DataScience\2 Linear Regression" />
       <recent name="D:\DataScience\1 Feature Engineering" />
     </key>
@@ -69,8 +81,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
-        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
   </component>
@@ -87,7 +99,12 @@
       <workItem from="1755890712952" duration="42000" />
       <workItem from="1755945561996" duration="5059000" />
       <workItem from="1755964539680" duration="142000" />
-      <workItem from="1755964725372" duration="300000" />
+      <workItem from="1755964725372" duration="1865000" />
+      <workItem from="1756127178468" duration="1276000" />
+      <workItem from="1756184115429" duration="3584000" />
+      <workItem from="1756196991908" duration="4000" />
+      <workItem from="1756732367225" duration="5433000" />
+      <workItem from="1756966870772" duration="5997000" />
     </task>
     <servers />
   </component>
